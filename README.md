@@ -45,9 +45,10 @@ https://github.com/Salik921/WestWild-Machine-Writeup-Full-Compromise-SMB-SSH-Roo
 Further enumeration using smbclient:
 
 ```bash
-smbclient -L //<target_ip> -N
+smbclient //192.168.10.8/wave
 
 ```
+https://github.com/Salik921/WestWild-Machine-Writeup-Full-Compromise-SMB-SSH-Root-/blob/42f181bf7680b41694e4a87be88453229458112a/Screenshot%202026-04-09%20140114.png
 
 ### 🚨 Critical Finding:
 
