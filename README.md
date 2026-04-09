@@ -48,14 +48,13 @@ Further enumeration using smbclient:
 smbclient //192.168.10.8/wave
 
 ```
-https://github.com/Salik921/WestWild-Machine-Writeup-Full-Compromise-SMB-SSH-Root-/blob/42f181bf7680b41694e4a87be88453229458112a/Screenshot%202026-04-09%20140114.png
 
 ### 🚨 Critical Finding:
 
 * **Anonymous login allowed**
 * Found an **encoded message** inside the share
 
----
+https://github.com/Salik921/WestWild-Machine-Writeup-Full-Compromise-SMB-SSH-Root-/blob/a41d596df496d9598b689aafd7fdeea5230cf1cf/Screenshot%202026-04-09%20140750.png
 
 ## 🕵️ 3. Credential Extraction
 
