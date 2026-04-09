@@ -70,7 +70,7 @@ echo "<encoded_text>" | base64 -d
 
 👉 This indicates **poor credential management and sensitive data exposure**.
 
----
+https://github.com/Salik921/WestWild-Machine-Writeup-Full-Compromise-SMB-SSH-Root-/blob/e7da30579da9a3c79b3ca0f302285bc18fe84c2f/Screenshot%202026-04-09%20140750.png
 
 ## 🚪 4. Initial Access (SSH Login)
 
