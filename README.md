@@ -25,7 +25,7 @@ nmap -sC -sV -oN nmap_scan.txt <target_ip>
 
 👉 Presence of SMB (139, 445) indicated potential for misconfiguration or sensitive data exposure.
 
----
+https://github.com/Salik921/WestWild-Machine-Writeup-Full-Compromise-SMB-SSH-Root-/blob/1cc130837f7f4481cab3dae258f8edae848f49c8/Screenshot%202026-04-09%20135718.png
 
 ## 🧠 2. SMB Enumeration
 
