@@ -77,14 +77,14 @@ https://github.com/Salik921/WestWild-Machine-Writeup-Full-Compromise-SMB-SSH-Roo
 Using discovered credentials:
 
 ```bash
-ssh <username>@<target_ip>
+ssh wave@192.168.10.8
 ```
 
 ### ✅ Result:
 
 * Successfully gained shell access
 
----
+https://github.com/Salik921/WestWild-Machine-Writeup-Full-Compromise-SMB-SSH-Root-/blob/ae68b95205317d24b548f649afad876aa9728931/Screenshot%202026-04-09%20140930.png
 
 ## 🧪 5. Local Enumeration (Privilege Escalation Phase)
 
