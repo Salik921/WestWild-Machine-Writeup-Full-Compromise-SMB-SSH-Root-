@@ -121,7 +121,7 @@ sudo su
 
 * **Root access obtained**
 
----
+https://github.com/Salik921/WestWild-Machine-Writeup-Full-Compromise-SMB-SSH-Root-/blob/f43f432581473d7c6de6cf62701b78fb5c063471/Screenshot%202026-04-09%20142227.png
 
 ## 🧩 Attack Chain Summary
 
