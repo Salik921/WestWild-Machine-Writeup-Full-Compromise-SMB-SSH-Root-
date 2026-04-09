@@ -101,7 +101,7 @@ chmod +x linuxprivchecker.py
 * Identified a **suspicious executable file**
 * The file contained or revealed additional credentials
 
----
+https://github.com/Salik921/WestWild-Machine-Writeup-Full-Compromise-SMB-SSH-Root-/blob/b6f1c24c8fcd76e20f5de05353cd9f86d5dd0760/Screenshot%202026-04-09%20141849.png
 
 ## 🔐 6. Privilege Escalation
 
