@@ -13,7 +13,7 @@ This project demonstrates a full compromise of the **WestWild** machine through 
 Initial scanning was performed to identify open ports and services:
 
 ```bash
-nmap -sC -sV -oN nmap_scan.txt <target_ip>
+nmap -sC -sV -oN nmap_scan.txt <192.168.10.8>
 ```
 
 ### 🧾 Results:
@@ -32,19 +32,21 @@ https://github.com/Salik921/WestWild-Machine-Writeup-Full-Compromise-SMB-SSH-Roo
 SMB enumeration was conducted to gather users, shares, and configurations:
 
 ```bash
-enum4linux <target_ip>
+enum4linux 192.168.10.8
 ```
 
 ### 🔎 Findings:
 
 * Discovered user: **wave**
 * SMB shares accessible
+  
+https://github.com/Salik921/WestWild-Machine-Writeup-Full-Compromise-SMB-SSH-Root-/blob/9ec42507255c497391db22f5a4edeb7ef4a61b6e/Screenshot%202026-04-09%20140009.png
 
 Further enumeration using smbclient:
 
 ```bash
 smbclient -L //<target_ip> -N
-smbclient //<target_ip>/<share_name> -N
+
 ```
 
 ### 🚨 Critical Finding:
