@@ -61,7 +61,7 @@ https://github.com/Salik921/WestWild-Machine-Writeup-Full-Compromise-SMB-SSH-Roo
 The encoded message was analyzed and decoded:
 
 ```bash
-echo "<encoded_text>" | base64 -d
+cat FLAG!.txt | base64 -d
 ```
 
 ### 🔓 Result:
