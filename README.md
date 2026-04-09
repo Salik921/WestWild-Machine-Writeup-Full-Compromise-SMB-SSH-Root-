@@ -54,7 +54,7 @@ smbclient //192.168.10.8/wave
 * **Anonymous login allowed**
 * Found an **encoded message** inside the share
 
-https://github.com/Salik921/WestWild-Machine-Writeup-Full-Compromise-SMB-SSH-Root-/blob/a41d596df496d9598b689aafd7fdeea5230cf1cf/Screenshot%202026-04-09%20140750.png
+https://github.com/Salik921/WestWild-Machine-Writeup-Full-Compromise-SMB-SSH-Root-/blob/f1bcfbda6dc23c42f2e1c63d2268ba5a1cd5ff2d/Screenshot%202026-04-09%20140114.png
 
 ## 🕵️ 3. Credential Extraction
 
